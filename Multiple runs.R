@@ -47,6 +47,8 @@ NHS_orgs <- read_csv("Org Codes NHS Digital.csv")
 
 #### Define/ call the function from a different R script
 
+#### Make sure to change the location to whatever function you want to parse through.
+
 source("C:/Users/Josh.Andrews/OneDrive - Department of Health and Social Care/Documents/R Codes/Ad-Hoc/.R")
 
 
